@@ -15,7 +15,6 @@
     "typescript",
     "vue",
     "html",
-    "json",
   ],
   "editor.quickSuggestions": {
     "strings": true
